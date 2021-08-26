@@ -1,0 +1,13 @@
+{
+  "name": "astro",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "astro dev",
+    "build": "astro build"
+  },
+  "devDependencies": {
+    "astro": "0.19.3"
+  },
+  "type": "module"
+}
